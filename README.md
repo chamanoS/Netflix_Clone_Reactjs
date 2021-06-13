@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Netflix Clone App
 
 
 In the project directory, you can run:
